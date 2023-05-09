@@ -13,14 +13,14 @@
 
 - 📫 How to reach me **brandocean2016@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jFx9RcAzjDHxwh2w-PMu4f0YVEQGXinL/view?usp=sharing](https://drive.google.com/file/d/1jFx9RcAzjDHxwh2w-PMu4f0YVEQGXinL/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1jFx9RcAzjDHxwh2w-PMu4f0YVEQGXinL/view?usp=sharing)
 
 - ⚡ Fun fact **I like to ride a horse**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/brandon-rivera-zuñiga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brandon-rivera-zuñiga" height="30" width="40" /></a>
-<a href="https://kaggle.com/brandon rivera zuñiga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="brandon rivera zuñiga" height="30" width="40" /></a>
+<a href="https://kaggle.com/brandocean" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="brandon rivera zuñiga" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

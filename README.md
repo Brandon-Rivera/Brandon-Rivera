@@ -31,3 +31,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brandon-rivera&show_icons=true&locale=en" alt="brandon-rivera" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brandon-rivera&" alt="brandon-rivera" /></p>
+
+<h3 align="left">More projects:</h3>
+
+- 💼 [Academic Portfolio](https://miscompetenciastec21.tec.mx/elumen/portfolio/Da7avNltKoJio19Q)
